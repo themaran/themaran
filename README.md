@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ElamaranElango&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elamaranelango" alt="elamaranelango" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ElamaranElango&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+---
 
 - 🔭 I’m currently working on [ERP Website](mymamcet.vercel.app)
 
@@ -30,6 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **elamaran.infotech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mad_coder_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elamaran-elango) 
 
 
 # 💻 Tech Stack:
@@ -41,6 +46,9 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ElamaranElango&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
