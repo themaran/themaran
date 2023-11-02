@@ -48,11 +48,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=ElamaranElango&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elamaranelango&show_icons=true&locale=en&layout=compact" alt="elamaranelango" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elamaranelango&show_icons=true&locale=en" alt="elamaranelango" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elamaranelango&" alt="elamaranelango" /></p>
+\
