@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ElamaranElango&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
--
+[![](https://github-profile-trophy.vercel.app/?username=ElamaranElango&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on [ERP Website](mymamcet.vercel.app)
 
