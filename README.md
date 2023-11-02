@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **elamaran.infotech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mad_coder_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Elamaran E) 
-
 
 
 # 💻 Tech Stack:
