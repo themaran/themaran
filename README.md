@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ElamaranElango/ElamaranElango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Elamaran/Elamaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Elamaran Elangovan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Elamaran</h1>
+<h3 align="center">A passionate frontend developer.</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=ElamaranElango&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -51,7 +51,5 @@ Here are some ideas to get you started:
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
